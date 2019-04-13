@@ -274,14 +274,6 @@ Return to the non-import point we were at before going to the module list.
 
 ;;;***
 
-;;;### (autoloads nil "purescript-package" "purescript-package.el"
-;;;;;;  (0 0 0 0))
-;;; Generated autoloads from purescript-package.el
-
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "purescript-package" '("purescript-package-")))
-
-;;;***
-
 ;;;### (autoloads nil "purescript-presentation-mode" "purescript-presentation-mode.el"
 ;;;;;;  (0 0 0 0))
 ;;; Generated autoloads from purescript-presentation-mode.el
